@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../chaoshengboceju.srcs/sources_1/new/ceju.v" \
+"../../../../chaoshengboceju.srcs/sources_1/new/zhuan_bcd.v" \
+"../../../../chaoshengboceju.srcs/sim_1/new/cejufangzhen.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

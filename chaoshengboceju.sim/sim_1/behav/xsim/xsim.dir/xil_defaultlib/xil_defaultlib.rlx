@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+F:/FPGA/xiaozu/chaoshengboceju/chaoshengboceju.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+F:/FPGA/xiaozu/chaoshengboceju/chaoshengboceju.srcs/sim_1/new/cejufangzhen.v,1747678998,verilog,,,,ceju_tb,,,,,,,,
+F:/FPGA/xiaozu/chaoshengboceju/chaoshengboceju.srcs/sources_1/new/ceju.v,1747911890,verilog,,F:/FPGA/xiaozu/chaoshengboceju/chaoshengboceju.srcs/sources_1/new/zhuan_bcd.v,,ceju,,,,,,,,
+,,,,F:/FPGA/xiaozu/chaoshengboceju/chaoshengboceju.srcs/sim_1/new/cejufangzhen.v,,bin_to_bcd_17bit,,,,,,,,

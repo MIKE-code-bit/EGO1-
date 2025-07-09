@@ -1,0 +1,5 @@
+srcscan starts
+INFO: analyzing module x7_4bit (VERI-9002)
+INFO: analyzing module xianshi (VERI-9002)
+INFO: analyzing module ceju (VERI-9002)
+F:/FPGA/xiaozu/chaoshengboceju/chaoshengboceju.srcs/sources_1/new/ceju.v(23): WARNING: literal value truncated to fit in 21 bits (VERI-1208)

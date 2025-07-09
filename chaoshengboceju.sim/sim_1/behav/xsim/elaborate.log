@@ -1,0 +1,7 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: D:/vivado/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto 6e3d55e7b7084e6cb78c77ae839d586c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot ceju_tb_behav xil_defaultlib.ceju_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-3180] cannot find port 'date' on this module [F:/FPGA/xiaozu/chaoshengboceju/chaoshengboceju.srcs/sim_1/new/cejufangzhen.v:40]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
